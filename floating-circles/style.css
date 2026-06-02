@@ -12,7 +12,6 @@ body {
     position: absolute;
     border-radius: 50%;
     opacity: 0.7;
-    animation: float 15s infinite ease-in-out;
 }
 
 /* Define different sizes and colors for circles */
@@ -22,8 +21,6 @@ body {
     background-color: #FF6347; /* Tomato */
     top: 10%;
     left: 15%;
-    animation-duration: 18s;
-    animation-delay: 0s;
 }
 
 .circle-2 {
@@ -32,8 +29,6 @@ body {
     background-color: #FFD700; /* Gold */
     top: 30%;
     left: 80%;
-    animation-duration: 20s;
-    animation-delay: 2s;
 }
 
 .circle-3 {
@@ -42,8 +37,6 @@ body {
     background-color: #32CD32; /* LimeGreen */
     top: 60%;
     left: 5%;
-    animation-duration: 16s;
-    animation-delay: 4s;
 }
 
 .circle-4 {
@@ -52,8 +45,6 @@ body {
     background-color: #6A5ACD; /* SlateBlue */
     top: 80%;
     left: 40%;
-    animation-duration: 22s;
-    animation-delay: 6s;
 }
 
 .circle-5 {
@@ -62,8 +53,6 @@ body {
     background-color: #FF69B4; /* HotPink */
     top: 5%;
     left: 60%;
-    animation-duration: 17s;
-    animation-delay: 8s;
 }
 
 .circle-6 {
@@ -72,8 +61,6 @@ body {
     background-color: #00CED1; /* DarkTurquoise */
     top: 45%;
     left: 25%;
-    animation-duration: 19s;
-    animation-delay: 10s;
 }
 
 .circle-7 {
@@ -82,8 +69,6 @@ body {
     background-color: #FFA07A; /* LightSalmon */
     top: 20%;
     left: 50%;
-    animation-duration: 21s;
-    animation-delay: 12s;
 }
 
 .circle-8 {
@@ -92,8 +77,6 @@ body {
     background-color: #BA55D3; /* MediumOrchid */
     top: 70%;
     left: 70%;
-    animation-duration: 15s;
-    animation-delay: 14s;
 }
 
 .circle-9 {
@@ -102,8 +85,6 @@ body {
     background-color: #20B2AA; /* LightSeaGreen */
     top: 35%;
     left: 10%;
-    animation-duration: 23s;
-    animation-delay: 1s;
 }
 
 .circle-10 {
@@ -112,8 +93,6 @@ body {
     background-color: #FF4500; /* OrangeRed */
     top: 55%;
     left: 90%;
-    animation-duration: 16s;
-    animation-delay: 3s;
 }
 
 
