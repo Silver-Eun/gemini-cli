@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom right, #87CEEB, #ADD8E6); /* Light blue gradient */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
